@@ -1,9 +1,9 @@
 [submodule "sonic-swss-common"]
 	path = src/sonic-swss-common
-	url = https://github.com/sonic-net/sonic-swss-common
+	url = https://github.com/edwardbottom/sonic-swss-common-optical
 [submodule "sonic-linux-kernel"]
 	path = src/sonic-linux-kernel
-	url = https://github.com/sonic-net/sonic-linux-kernel
+	url = https://github.com/edwardbottom/sonic-linux-kernel-optical
 [submodule "sonic-sairedis"]
 	path = src/sonic-sairedis
 	url = https://github.com/sonic-net/sonic-sairedis
@@ -36,13 +36,13 @@
 	url = https://github.com/aristanetworks/sonic
 [submodule "src/sonic-platform-common"]
 	path = src/sonic-platform-common
-	url = https://github.com/sonic-net/sonic-platform-common
+	url = https://github.com/edwardbottom/sonic-platform-common-optical
 [submodule "src/sonic-platform-daemons"]
 	path = src/sonic-platform-daemons
-	url = https://github.com/sonic-net/sonic-platform-daemons
+	url = https://github.com/edwardbottom/sonic-platform-daemons-optical
 [submodule "src/sonic-platform-pde"]
-	path = src/sonic-platform-pde
-	url = https://github.com/sonic-net/sonic-platform-pdk-pde
+	path = src/sonic-platform-pde-optical
+	url = https://github.com/sonic-net/sonic-platform-pdk-pde-optical
 [submodule "src/sonic-frr/frr"]
 	path = src/sonic-frr/frr
 	url = https://github.com/sonic-net/sonic-frr.git
